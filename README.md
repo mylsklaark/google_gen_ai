@@ -58,3 +58,7 @@ This project explores text classification using the Google Gemini API. It fine-t
 
 - [Google Gemini API Documentation](https://ai.google.dev/gemini-api/docs)
 - [Disaster Tweet Corpus 2020](https://doi.org/10.5281/zenodo.3713920)
+
+## Disclaimer
+
+This project uses the Google Gemini API, which is subject to Google's [Terms of Service](https://ai.google.dev/terms). Use of the API and associated services is governed by those terms, and not by this repository's license.
