@@ -1,7 +1,7 @@
 # Disaster Tweet Classification with Google Gemini API
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)
 ![Platform](https://img.shields.io/badge/platform-Jupyter%20Notebook-lightgrey)
 ![Status](https://img.shields.io/badge/status-WIP-yellow)
 
