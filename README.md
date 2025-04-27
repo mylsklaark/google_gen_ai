@@ -1,4 +1,4 @@
-# Disaster Tweet Classification with Google Gemini API
+# Disaster Tweet Classification with Traditional ML and LLMs
 
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square)
